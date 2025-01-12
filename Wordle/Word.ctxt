@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Word
+comment1.params=
+comment1.target=Word()
+comment2.params=l
+comment2.target=void\ addLetter(Letter)
+comment3.params=result
+comment3.target=boolean\ isResult(java.lang.String)
+comment4.params=result
+comment4.target=int[]\ getColorAssignments(java.lang.String)
+comment4.text=returns\ 1\ if\ the\ color\ of\ the\ letter\ in\ the\ guessed\ word\ is\ green;\ \n\ returns\ 0\ if\ the\ color\ of\ the\ guessed\ letter\ is\ yellow\n\ returns\ -1\ if\ the\ color\ of\ the\ guessed\ letter\ is\ grey\nprecondition\:\ the\ length\ of\ the\ result\ and\ the\ guessed\ word\ should\ be\ equal
+comment5.params=
+comment5.target=java.util.ArrayList\ getLetters()
+numComments=6

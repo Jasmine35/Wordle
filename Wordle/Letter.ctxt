@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Letter
+comment1.params=l\ i
+comment1.target=Letter(java.lang.String,\ int)
+comment1.text=precondition\:\ parameter\ l\ is\ length\ 1
+comment2.params=word
+comment2.target=boolean\ isInWord(java.lang.String)
+comment3.params=word
+comment3.target=boolean\ isCorrectPosition(java.lang.String)
+comment4.params=
+comment4.target=int\ getIndex()
+comment5.params=
+comment5.target=java.lang.String\ getLetter()
+numComments=6
